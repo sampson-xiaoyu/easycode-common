@@ -10,7 +10,7 @@
   <artifactId>easycode-common</artifactId>
   <packaging>jar</packaging>
   
-  <repositories>
+  <repositories> 
 		<repository>
 			<id>releases</id>
 			<name>releases</name>
